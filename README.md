@@ -1,7 +1,7 @@
-### Hi there)
+### Hi, my name is Oleg)
 👋
 
-My name is Oleg. Thank you for looking into my github
+Thank you for looking into my github
 
 I am currently learning Java and Kotlin in the context of android development. So far, I'm only writing small test games to improve my skills.
 In the near future I plan to write working applications for android.
@@ -41,6 +41,15 @@ I am a programmer from Russia and I am targeting the local market, so now my pro
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+===================================
+
+If you have any questions or suggestions for me, then you can contact me by mail:
+
+[oleg.shabashev256@gmail.com](mailto:oleg.shabashev256@gmail.com)
+
+
+or write in a telegram:
+[@oleg_sh256](https://t.me/oleg_sh256)
 
 ===================================
 
