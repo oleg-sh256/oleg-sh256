@@ -1,7 +1,7 @@
-### Hi, my name is Oleg)
-👋
+### Hi, my name is Oleg
+## 👋
 
-Thank you for looking into my github
+Thank you for looking into my github)
 
 I am currently learning Java and Kotlin in the context of android development. So far, I'm only writing small test games to improve my skills.
 In the near future I plan to write working applications for android.
