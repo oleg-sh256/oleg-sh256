@@ -47,25 +47,8 @@ If you have any questions or suggestions for me, then you can contact me by mail
 
 [oleg.shabashev256@gmail.com](mailto:oleg.shabashev256@gmail.com)
 
-
-or write a message to my telegramm:
-[@oleg_sh256](https://t.me/oleg_sh256)
+or write a message to my telegramm: [@oleg_sh256](https://t.me/oleg_sh256)
 
 ===================================
 
 Bye! Have a nice day)
-
-<!--
-**oleg-sh256/oleg-sh256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
