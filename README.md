@@ -48,7 +48,7 @@ If you have any questions or suggestions for me, then you can contact me by mail
 [oleg.shabashev256@gmail.com](mailto:oleg.shabashev256@gmail.com)
 
 
-or write in a telegram:
+or write a message to my telegramm:
 [@oleg_sh256](https://t.me/oleg_sh256)
 
 ===================================
