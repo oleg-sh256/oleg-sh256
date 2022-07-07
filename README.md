@@ -6,7 +6,7 @@ Thank you for looking into my github)
 I am currently learning Java and Kotlin in the context of android development. So far, I'm only writing small test games to improve my skills.
 In the near future I plan to write working applications for android.
 
-I am a programmer from Russia and I am targeting the local market, so now my projects are in Russian, but I think I will add English to them over time.
+I am a programmer from Russia and I am targeting the local market, so now my projects are on Russian, but I think I will add English to them over time.
 
 ===================================
 
